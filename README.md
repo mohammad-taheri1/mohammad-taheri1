@@ -3,11 +3,11 @@
 I'm Mohammad.
 
 <a href="https://github.com/MamadTaheri68">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MamadTaheri68&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MamadTaheri68&show_icons=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 
 <a href="https://github.com/MamadTaheri68">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamadTaheri68&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamadTaheri68&theme=merko" />
 </a>
 
 
