@@ -3,7 +3,7 @@
 I'm Mohammad.
 
 <a href="https://github.com/MamadTaheri68">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MamadTaheri68&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MamadTaheri68&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
 
 
 <a href="https://github.com/MamadTaheri68">
