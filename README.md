@@ -7,7 +7,7 @@ I'm Mohammad.
 
 
 <a href="https://github.com/MamadTaheri68">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamadTaheri68" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamadTaheri68&theme=dracula" />
 </a>
 
 
