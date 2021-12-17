@@ -11,8 +11,8 @@ I'm Mohammad.
 -🌐 www.irdevprogs.ir
  
 <div class="container">
- <img src="./images/react.png" />
- <img src="./images/javascript.png" />
- <img src="./images/Typescript.png" />
- <img src="./images/laravel.png" />
+ <img class="logo" src="./images/react.png" />
+ <img class="logo" src="./images/javascript.png" />
+ <img class="logo" src="./images/Typescript.png" />
+ <img class="logo" src="./images/laravel.png" />
 </div>
