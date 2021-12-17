@@ -1,3 +1,5 @@
+<link href="./style.css" rel="stylesheet"></link>
+
 ### Hi Everybody
 
 I'm Mohammad.
@@ -7,20 +9,10 @@ I'm Mohammad.
 -📧 mamad.taheri.68@gmail.com
 
 -🌐 www.irdevprogs.ir
-
-<style>
-.container {
-    display: flex;
-    flex-direction: row;
-}
  
-mark{
-    color:black;
-    background-color: red
-}
-</style>
-
-<mark>what is DataBase</mark>
-<div class="container">
+<div class="">
+ <img src="./images/react.png" />
+ <img src="./images/javascript.png" />
+ <img src="./images/react.png" />
  <img src="./images/react.png" />
 </div>
