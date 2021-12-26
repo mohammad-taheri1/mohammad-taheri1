@@ -14,5 +14,5 @@ I'm Mohammad.
  <img class="logo" src="./images/react.png" style="width:80px;heigth:80px;margin:1rem;" />
  <img class="logo" src="./images/javascript.png" style="width:80px;heigth:80px;margin:1rem;" />
  <img class="logo" src="./images/Typescript.png" style="width:80px;heigth:80px;margin:1rem;" />
- <img class="logo" src="./images/laravel.png" style="width:80px;heigth:80px;margin:1rem;" />
+<!--  <img class="logo" src="./images/laravel.png" style="width:80px;heigth:80px;margin:1rem;" /> -->
 </div>
