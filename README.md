@@ -8,7 +8,7 @@ I'm Mohammad.
 
 -📧 mamad.taheri.68@gmail.com
 
--🌐 www.irdevprogs.ir
+-🌐 [Linkedin](https://www.linkedin.com/in/mohammad-taheri1/)
  
 <div class="container">
  <img class="logo" src="./images/react2.png" style="width:80px;heigth:80px;margin:1rem; border: 1px solid red;" />
