@@ -7,8 +7,8 @@
 - 📧 mamad.taheri.68@gmail.com
 
 
-<a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- 
+<a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+ <a href="https://stackoverflow.com/users/16505469/mohammad-taheri"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" /></a>
 
 <div align="center">
 
@@ -50,3 +50,6 @@
 <br />
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="./svgs/express.svg" alt="express"></a>
 </div>
+
+
+ 
