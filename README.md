@@ -4,11 +4,16 @@
 
 - ## <img margin="10px" height="20" src="./svgs/react.svg" alt="react"> Frontend Developer at Fanap Soft
 
-- 📧 mamad.taheri.68@gmail.com
-
-
-<a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
- <a href="https://stackoverflow.com/users/16505469/mohammad-taheri"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> 
+ <a href="https://stackoverflow.com/users/16505469/mohammad-taheri">
+ <img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" />
+ </a>
+</a> 
+ <a href="mailto:mamad.taheri.68@gmail.com">
+ <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+ </a>
 
 <div align="center">
 
