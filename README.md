@@ -1,8 +1,7 @@
 <link href="./style.css" rel="stylesheet"></link>
 
 <div align="center">
-<h2>Hi Everybody</h2> 
-<h3>I'm Mohammad Taheri</h3>
+    <h2>Hi. I'm Mohammad Taheri</h2> 
 </div>
 
 
@@ -12,6 +11,8 @@
 -📧 mamad.taheri.68@gmail.com
 
 -🌐 [Linkedin](https://www.linkedin.com/in/mohammad-taheri1/)
+
+<a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
 <div class="container">
  <img class="logo" src="./images/react2.png" style="width:80px;heigth:80px;margin:1rem; border: 1px solid red;" />
