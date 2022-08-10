@@ -2,7 +2,7 @@
     <h2>Hi. I'm Mohammad Taheri</h2> 
 </div>
 
-- <img margin="10px" height="20" src="./svgs/react.svg" alt="react"> Frontend Developer at Fanap Soft
+- ## <img margin="10px" height="20" src="./svgs/react.svg" alt="react"> Frontend Developer at Fanap Soft
 
 - 📧 mamad.taheri.68@gmail.com
 
