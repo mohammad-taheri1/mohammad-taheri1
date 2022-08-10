@@ -1,13 +1,13 @@
 <link href="./style.css" rel="stylesheet"></link>
 
 <div align="center">
-<h3>Hi Everybody</h3> 
-<h5>I'm Mohammad Taheri</h5>
+<h2>Hi Everybody</h2> 
+<h3>I'm Mohammad Taheri</h3>
 </div>
 
 
 
--😊 I’m currently working on Navoshgaran Company, Tehran, Iran as a React developer
+-😊 I’m currently working on Fanap Soft Company, Tehran, Iran as a React developer
 
 -📧 mamad.taheri.68@gmail.com
 
