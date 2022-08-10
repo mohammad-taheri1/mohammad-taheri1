@@ -50,11 +50,6 @@
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="./svgs/react.svg" alt="react"></a>
 <a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="./svgs/nextjs.svg" alt="next js"></a>
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="./svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="./svgs/mongodb.svg" alt="mongodb"></a>
-<br />
-<br />
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="./svgs/express.svg" alt="express"></a>
-</div>
-
-
+<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="./svgs/mongodb.svg" alt="mongodb"></a> 
  
+</div>
