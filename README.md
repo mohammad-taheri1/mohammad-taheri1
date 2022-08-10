@@ -1,8 +1,11 @@
 <link href="./style.css" rel="stylesheet"></link>
 
-### Hi Everybody
+<div align="center">
+<h3>Hi Everybody</h3> 
+<h5>I'm Mohammad Taheri</h5>
+</div>
 
-I'm Mohammad.
+
 
 -😊 I’m currently working on Navoshgaran Company, Tehran, Iran as a React developer
 
