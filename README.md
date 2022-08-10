@@ -2,11 +2,10 @@
     <h2>Hi. I'm Mohammad Taheri</h2> 
 </div>
 
--😊 I’m currently working on Fanap Soft Company, Tehran, Iran as a React developer
+- <img margin="10px" height="20" src="./svgs/react.svg" alt="react"> Frontend Developer at Fanap Soft
 
--📧 mamad.taheri.68@gmail.com
+- 📧 mamad.taheri.68@gmail.com
 
--🌐 [Linkedin](https://www.linkedin.com/in/mohammad-taheri1/)
 
 <a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
