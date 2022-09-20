@@ -1,8 +1,9 @@
-<div align="center">
-    <h2>Hi. I'm Mohammad Taheri</h2> 
-</div>
+ ## Who am i?
+  * I'm Mohammad Taheri
 
-##  Frontend Developer at Fanap Soft
+  * I'm Frontend Developer at Fanap Soft
+
+  * I have more than 3 years of experience.
 
 <a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -14,8 +15,6 @@
  <a href="mailto:mamad.taheri.68@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
  </a>
-
-<div align="center">
 
 ## My Tech Stack
 
@@ -43,8 +42,6 @@
 <img margin="10px" height="40" src="./svgs/tailwind.svg" alt="tailwind">
 </a>
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank"><img margin="10px" height="40" src="./svgs/sass.svg" alt="sass"></a>
-<br />
-<br />
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
 <img margin="10px" height="40" src="./svgs/react.svg" alt="react">
 </a>
