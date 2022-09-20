@@ -21,17 +21,17 @@
 
 <br />
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
-<img margin="10px" height="60" src="./svgs/html.svg" alt="html">
+<img margin="10px" height="40" src="./svgs/html.svg" alt="html">
 </a>
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
-<img margin="10px" height="60" src="./svgs/css.svg" alt="css">
+<img margin="10px" height="40" src="./svgs/css.svg" alt="css">
 </a>
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
-<img margin="10px" height="60" src="./svgs/javascript.svg" alt="javascript">
+<img margin="10px" height="40" src="./svgs/javascript.svg" alt="javascript">
 </a>
 </a>
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
-<img margin="10px" height="60" src="./images/Typescript.png" alt="typescript" />
+<img margin="10px" height="40" src="./images/Typescript.png" alt="typescript" />
 </a>
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
 <img margin="10px" height="40" src="./svgs/materialui.svg" alt="material ui">
