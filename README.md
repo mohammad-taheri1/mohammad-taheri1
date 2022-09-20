@@ -33,9 +33,7 @@
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
 <img margin="10px" height="60" src="./images/Typescript.png" alt="typescript" />
 </a>
-<br />
-<br />
-<a margin="10" href="https://mui.com" target="_blank">
+<a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
 <img margin="10px" height="40" src="./svgs/materialui.svg" alt="material ui">
 </a>
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
@@ -44,12 +42,19 @@
 <a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
 <img margin="10px" height="40" src="./svgs/tailwind.svg" alt="tailwind">
 </a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="./svgs/sass.svg" alt="sass"></a>
+<a margin="10" href="https://github.com/MamadTaheri68" target="_blank"><img margin="10px" height="40" src="./svgs/sass.svg" alt="sass"></a>
 <br />
 <br />
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="./svgs/react.svg" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="./svgs/nextjs.svg" alt="next js"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="./svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="./svgs/mongodb.svg" alt="mongodb"></a> 
- 
+<a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
+<img margin="10px" height="40" src="./svgs/react.svg" alt="react">
+</a>
+<a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
+<img margin="10px" height="40" src="./svgs/nodejs.svg" alt="nodejs">
+</a>
+<a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
+<img margin="10px" height="40" src="./images/csharp.jfif" alt="csharp">
+</a>
+<a margin="10" href="https://github.com/MamadTaheri68" target="_blank">
+<img margin="10px" height="40" src="./images/dotnetcore.png" alt="dotnetcore">
+</a>
 </div>
