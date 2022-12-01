@@ -1,7 +1,9 @@
  ## Who am i?
   * I'm Mohammad Taheri
 
-  * I'm Frontend Developer at Fanap Soft
+  * I'm a Frontend developer. 
+
+  * I'm looking for a remote job now.
 
   * I have more than 3 years of experience.
 
