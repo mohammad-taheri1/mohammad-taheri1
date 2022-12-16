@@ -1,11 +1,7 @@
  ## Who am i?
-  * I'm Mohammad Taheri
+  * I'm Mohammad Taheri. A front-end developer with more than 3 years of experience.
 
-  * I'm a Frontend developer. 
-
-  * I'm looking for a remote job now.
-
-  * I have more than 3 years of experience.
+  * Currently, I'm looking for a remote job.
 
 <a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
