@@ -71,7 +71,7 @@
 
 - Landing page : [Developement](https://github.com/MamadTaheri/react-landing) ____ [Production]()
 
-- Crypto Tracker : [Developement](https://github.com/MamadTaheri/react-api-crypto-tracker) ____ [Production]()
+- Crypto Tracker : [Developement](https://github.com/MamadTaheri/react-api-crypto-tracker) ____ [Production](https://faradars-crypto-tracking.netlify.app/)
 
 - Mini app : [Developement](https://github.com/MamadTaheri/mini-app-react) ____ [Production]()
 
