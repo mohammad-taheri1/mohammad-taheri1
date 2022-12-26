@@ -59,26 +59,26 @@
 
 ### React
 
-- Youtube simple ToDo app [Developement](https://github.com/MamadTaheri/youtube-simple-todo-app) ____ [Production]()
+- Youtube simple ToDo app : [Developement](https://github.com/MamadTaheri/youtube-simple-todo-app) ____ [Production]()
 
-- Minimalgram [Developement](https://github.com/MamadTaheri/minimalgram-react-v1) [Production]()
+- Minimalgram : [Developement](https://github.com/MamadTaheri/minimalgram-react-v1) ____ [Production]()
 
-- Neo-Bank hezare [Developement](https://github.com/MamadTaheri/neo-bank-hezare-react-v1) [Production]()
+- Neo-Bank hezare : [Developement](https://github.com/MamadTaheri/neo-bank-hezare-react-v1) ____ [Production]()
 
-- GitHub API [Developement](https://github.com/MamadTaheri/github-api) [Production]()
+- GitHub API : [Developement](https://github.com/MamadTaheri/github-api) ____ [Production]()
 
-- Library sample [Developement](https://github.com/MamadTaheri/library_frontend_react) [Production]()
+- Library sample : [Developement](https://github.com/MamadTaheri/library_frontend_react) ____ [Production]()
 
-- Landing page [Developement](https://github.com/MamadTaheri/react-landing) [Production]()
+- Landing page : [Developement](https://github.com/MamadTaheri/react-landing) ____ [Production]()
 
-- Crypto Tracker [Developement](https://github.com/MamadTaheri/react-api-crypto-tracker) [Production]()
+- Crypto Tracker : [Developement](https://github.com/MamadTaheri/react-api-crypto-tracker) ____ [Production]()
 
-- Mini app [Developement](https://github.com/MamadTaheri/mini-app-react) [Production]()
+- Mini app : [Developement](https://github.com/MamadTaheri/mini-app-react) ____ [Production]()
 
 ### HTML && CSS && JavaScript
 
-- Hospitalify [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0004-Hospitalify) [Production]()
+- Hospitalify : [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0004-Hospitalify) ____ [Production]()
 
-- Landing with bootstrap [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0005-landing-with-bootstrap) [Production]()
+- Landing with bootstrap : [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0005-landing-with-bootstrap) ____ [Production]()
 
-- Landing [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0003-landing) [Production]()
+- Landing : [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0003-landing) ____ [Production]()
