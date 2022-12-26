@@ -1,7 +1,8 @@
- ## Who am i?
-  * I'm Mohammad Taheri. A front-end developer with more than 3 years of experience.
+## Who am i?
 
-  * Currently, I'm looking for a remote job.
+- I'm Mohammad Taheri. A front-end developer with more than 3 years of experience.
+
+- Currently, I'm looking for a remote job.
 
 <a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -54,32 +55,30 @@
 </a>
 </div>
 
-
-
 ## My Projects
 
 ### React
 
-* Youtube simple ToDo app  [Repo](https://github.com/MamadTaheri/youtube-simple-todo-app) [Online-Link]()
+- Youtube simple ToDo app [Developement](https://github.com/MamadTaheri/youtube-simple-todo-app) ____ [Production]()
 
-* Minimalgram [Repo](https://github.com/MamadTaheri/minimalgram-react-v1) [Online-Link]()
+- Minimalgram [Developement](https://github.com/MamadTaheri/minimalgram-react-v1) [Production]()
 
-* Neo-Bank hezare [Repo](https://github.com/MamadTaheri/neo-bank-hezare-react-v1) [Online-Link]()
+- Neo-Bank hezare [Developement](https://github.com/MamadTaheri/neo-bank-hezare-react-v1) [Production]()
 
-* GitHub API [Repo](https://github.com/MamadTaheri/github-api) [Online-Link]()
+- GitHub API [Developement](https://github.com/MamadTaheri/github-api) [Production]()
 
-* Library sample [Repo](https://github.com/MamadTaheri/library_frontend_react) [Online-Link]()
+- Library sample [Developement](https://github.com/MamadTaheri/library_frontend_react) [Production]()
 
-* Landing page [Repo](https://github.com/MamadTaheri/react-landing) [Online-Link]()
+- Landing page [Developement](https://github.com/MamadTaheri/react-landing) [Production]()
 
-* Crypto Tracker [Repo](https://github.com/MamadTaheri/react-api-crypto-tracker) [Online-Link]()
+- Crypto Tracker [Developement](https://github.com/MamadTaheri/react-api-crypto-tracker) [Production]()
 
-* Mini app [Repo](https://github.com/MamadTaheri/mini-app-react) [Online-Link]()
+- Mini app [Developement](https://github.com/MamadTaheri/mini-app-react) [Production]()
 
 ### HTML && CSS && JavaScript
 
-* Hospitalify [Repo](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0004-Hospitalify) [Online-Link]()
+- Hospitalify [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0004-Hospitalify) [Production]()
 
-* Landing with bootstrap [Repo](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0005-landing-with-bootstrap) [Online-Link]()
+- Landing with bootstrap [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0005-landing-with-bootstrap) [Production]()
 
-* Landing [Repo](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0003-landing) [Online-Link]()
+- Landing [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0003-landing) [Production]()
