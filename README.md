@@ -59,7 +59,7 @@
 
 ### WordPress
 
-- ShahrakEmama.com [Link](https://shahrakemam.com/)
+- Shahrakemam.com [Link](https://shahrakemam.com/)
 
 ### React
 
