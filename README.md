@@ -1,5 +1,3 @@
-
-
 ## Who am i?
 
 - I'm Mohammad Taheri. A front-end developer with more than 3 years of experience.
@@ -16,10 +14,6 @@
  <a href="mailto:mamad.taheri.68@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
  </a>
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MamadTaheri)](https://github.com/MamadTaheri/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamadTaheri&hide=php,blade)](https://github.com/MamadTaheri/github-readme-stats)
 
 ## My Tech Stack
 
