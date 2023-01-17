@@ -83,15 +83,5 @@
 
 - Mini app : [Developement](https://github.com/MamadTaheri/mini-app-react) ____ Production
 
-### HTML && CSS && JavaScript
-
-- Hospitalify : [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0004-Hospitalify) ____ Production
-
-- Landing with bootstrap : [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0005-landing-with-bootstrap) ____ Production
-
-- Landing : [Developement](https://github.com/MamadTaheri/youtube-common-projects/tree/main/0003-landing) ____ Production
-
-### WordPress
-
-- Shahrakemam.com [Link](https://shahrakemam.com/)
-- Webwithme.ir [Link](https://webwithme.ir)
+ 
+ 
