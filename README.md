@@ -54,13 +54,3 @@
 <img margin="10px" height="40" src="./images/dotnetcore.png" alt="dotnetcore">
 </a>
 </div>
-
-## My Projects
-
-### Fullstack (NestJs - ReactJS - TypeScript)
- - Minimalgram V2 : [Developement](https://github.com/MamadTaheri/minimalgram-v2-fullstack) ____ Production
- - RealTor Fullstack : [Developement](https://github.com/MamadTaheri/RealTor-Fullstack) ____ Production
-
-### NestJs
-- NestJs Microservices [Developement](https://github.com/MamadTaheri/NestJs-Microservices-Sample) ____ Production
-- Expense App          [Developement](https://github.com/MamadTaheri/Expense-App) ____ Production
