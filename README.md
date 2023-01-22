@@ -1,8 +1,8 @@
 ## Who am i?
 
 - I'm Mohammad Taheri. A front-end developer with more than 3 years of experience.
-
-- Currently, I'm looking for a remote job.
+ 
+ ![GitHub User's stars](https://img.shields.io/github/stars/MamadTaheri?style=social)
 
 <a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -14,6 +14,8 @@
  <a href="mailto:mamad.taheri.68@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
  </a>
+ 
+
 
 ## My Tech Stack
 
