@@ -2,7 +2,9 @@
 
 - I'm Mohammad Taheri. A front-end developer with more than 3 years of experience.
  
- ![GitHub User's stars](https://img.shields.io/github/stars/DevEmpower?style=social)
+ ![GitHub User's stars](https://img.shields.io/github/stars/DevEmpower?style=social) (Organization page)
+ 
+ ![GitHub User's stars](https://img.shields.io/github/stars/mohammad-taheri1?style=social) (Personal page)
 
 <a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
