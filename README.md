@@ -2,8 +2,6 @@
 
 - I'm Mohammad Taheri. A front-end developer with more than 3 years of experience.
  
- ![GitHub User's stars](https://img.shields.io/github/stars/DevEmpower?style=social) (Organization page)
- 
  ![GitHub User's stars](https://img.shields.io/github/stars/mohammad-taheri1?style=social) (Personal page)
  
  - My Portfolio : https://devempower.ir/
