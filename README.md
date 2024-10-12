@@ -1,9 +1,10 @@
- 
-<h3 align="center">I'm Mohammad Taheri. A Fullstack developer with more than 4 years of experience.</h3>
- 
- 
+ # About Me:
+- I’m Mohammad Taheri, A Software Engineer with more than 4 years of experience
+- I’m currently Working with c# and JS<br>
+- You can contact me at mamad.taheri.68@gmail.com 
  - My Portfolio : https://devempower.ir/
-
+<br>
+<br>
 <a href="https://www.linkedin.com/in/mohammad-taheri1" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> 
